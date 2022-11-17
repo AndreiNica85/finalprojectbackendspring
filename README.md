@@ -1,3 +1,3 @@
-# by  Nica Andrei  and  Piotr Kubacki
+# by  Nica Andrei  and  Kubacki Piotr
 
 This is Spring Boot Back End Application for Final Project 
